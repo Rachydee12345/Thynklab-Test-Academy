@@ -1,0 +1,8 @@
+{
+  "name": "Nicer interface?",
+  "description": "Engineering Early Warning Systems & Defensive Structures",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
